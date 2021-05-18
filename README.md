@@ -1,12 +1,12 @@
-#Random Mouse Move
+# Random Mouse Move
 
 mouse moves/click after a certain interval to block the screen save 
 
-##Preliminary
+## Preliminary
 
 [java](https://www.java.com/) and [maven](https://maven.apache.org/install.html)
 
-##Usage
+## Usage
 ```shell
 mvn package
 java -jar ./target/RandomMouseMove-1.jar
