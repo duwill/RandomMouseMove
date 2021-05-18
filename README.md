@@ -9,7 +9,9 @@ mouse moves/click after a certain interval to block the screen save
 ## Usage
 ```shell
 mvn package
-java -jar ./target/RandomMouseMove-1.jar
+java -jar ./target/RandomMouseMove-1.0.jar
 ```
+`Ctrl` + `c` to stop it
+
 
 ***Use with own risk, no responsibility of author***
